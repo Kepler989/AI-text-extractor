@@ -1,0 +1,12 @@
+# Protect the Python Sandbox
+backend/env/
+
+# Mac junk files
+.DS_Store
+
+# Python cache
+backend/__pycache__/
+*.pyc
+
+# Ignore the test image (optional)
+backend/handwriting.jpg

@@ -1,0 +1,15 @@
+# Python Virtual Environment
+env/
+
+# Mac system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables (if you create a .env file later)
+.env
+
+# Ignore the test image (optional, remove this line if you want to upload it)
+handwriting.jpg
